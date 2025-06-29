@@ -150,7 +150,6 @@ Managing messy spreadsheets across clients, workers, and tasks can be overwhelmi
 
 ## 🤝 Let’s Connect
 
-* GitHub: [@gouravpandey009](https://github.com/gouravpandey009)
 * LinkedIn: [Connect with Me](https://linkedin.com/in/gouravpandey009)
 * Mail: [gouravpandey009@gmail.com](mailto:gouravpandey009@gmail.com)
 
