@@ -1,0 +1,52 @@
+Task ID,Title,Description,Assigned To,Status,Priority,Due Date
+1,Fix login bug,"Resolve the issue preventing user login",Ananya,In Progress,High,2025-07-02
+2,Design landing page,"Create UI mockups for the home page",Sameer,Not Started,Medium,2025-07-05
+3,Database backup,"Run weekly database backup script",Neha,Completed,Low,2025-06-27
+4,Update README,"Add setup instructions and examples",Gourav,In Review,Low,2025-06-30
+5,Optimize queries,"Improve the performance of slow queries",Akash,In Progress,High,2025-07-03
+6,Deploy to staging,"Push latest changes to staging server",Riya,Not Started,Medium,2025-07-01
+7,Fix broken links,"Check and fix all broken links on the site",Sneha,Completed,Low,2025-06-26
+8,Create test cases,"Write unit tests for user module",Vikram,In Review,High,2025-07-06
+9,Set up CI/CD,"Configure GitHub Actions for deployment",Priyanka,In Progress,High,2025-07-04
+10,Update dependencies,"Upgrade all outdated npm packages",Tanmay,Not Started,Medium,2025-07-07
+11,Refactor codebase,"Improve folder structure and readability",Shreya,In Progress,Medium,2025-07-08
+12,Conduct UX testing,"Test UI with real users",Kritika,Not Started,Low,2025-07-10
+13,Resolve 404 errors,"Find and fix all 404 pages on site",Aman,Completed,Low,2025-06-29
+14,Implement dark mode,"Add dark theme toggle option",Yuvraj,In Progress,High,2025-07-09
+15,Generate sitemap,"Create and submit sitemap to Google",Ritika,Completed,Low,2025-06-28
+16,Design logo,"Design new logo for branding",Mehul,Not Started,Medium,2025-07-11
+17,Write blog post,"Write July product release blog",Ayesha,In Review,Low,2025-07-12
+18,Update user roles,"Add admin, editor, and viewer roles",Sohan,Completed,Medium,2025-06-25
+19,Fix mobile nav,"Make navigation responsive for mobile",Rhea,In Progress,High,2025-07-03
+20,Add loading spinner,"Add spinner to improve UX during load",Samar,Not Started,Low,2025-07-08
+21,Track analytics,"Integrate Google Analytics",Nidhi,Completed,Medium,2025-06-30
+22,Translate site,"Translate homepage to Spanish",Neeraj,Not Started,Low,2025-07-10
+23,Build dashboard,"Create analytics dashboard for admin",Kavya,In Progress,High,2025-07-06
+24,Fix image upload,"Resolve bug in image upload feature",Om,In Review,High,2025-07-04
+25,Setup ESLint,"Add linting rules for code quality control",Dhruv,Completed,Low,2025-06-26
+26,Build notification system,"Add push notifications to app",Swati,Not Started,High,2025-07-13
+27,Review PRs,"Review open pull requests",Krishna,In Review,Medium,2025-07-01
+28,Design error page,"Design custom 404 and 500 pages",Roshni,In Progress,Low,2025-07-09
+29,Add pagination,"Implement pagination on blog page",Rachit,Not Started,Medium,2025-07-05
+30,Write API docs,"Document all REST API endpoints",Karan,In Review,Medium,2025-07-07
+31,Integrate payment,"Add Razorpay for payment checkout",Ishita,In Progress,High,2025-07-14
+32,Fix z-index bug,"Resolve overlapping modal issue",Tanya,Completed,Low,2025-06-29
+33,Add profile pic,"Enable profile photo upload in settings",Naman,Not Started,Medium,2025-07-11
+34,Setup Redis,"Integrate Redis for caching",Devika,In Review,High,2025-07-10
+35,Fix logout flow,"Ensure proper session termination",Varun,In Progress,Medium,2025-07-03
+36,Research competitors,"Analyze competitors’ features",Nidhi,Not Started,Low,2025-07-12
+37,Add search bar,"Implement fuzzy search in navbar",Manav,In Progress,High,2025-07-06
+38,Test payment flow,"End-to-end testing of payment checkout",Sara,Completed,High,2025-06-28
+39,Implement 2FA,"Add two-factor auth via OTP",Ritesh,Not Started,High,2025-07-15
+40,Update footer,"Add links to new policy pages",Ira,Completed,Low,2025-06-30
+41,Fix carousel bug,"Correct auto-slide issue in carousel",Yash,In Review,Medium,2025-07-02
+42,Integrate chat,"Add chat support with socket.io",Aditya,In Progress,High,2025-07-13
+43,Build contact form,"Add contact form with validation",Anjali,Not Started,Medium,2025-07-04
+44,Setup Postgres,"Replace SQLite with PostgreSQL",Pratik,In Progress,High,2025-07-09
+45,Check Lighthouse score,"Optimize for performance and SEO",Kriti,Completed,Low,2025-06-27
+46,Fix font rendering,"Resolve blurry font issue on Chrome",Aarav,In Review,Low,2025-07-01
+47,Improve SEO,"Add meta tags to improve SEO",Niharika,Not Started,Medium,2025-07-05
+48,Redesign profile page,"Improve user profile layout and UX",Ayaan,In Progress,High,2025-07-10
+49,Setup email notifications,"Send email alerts on status updates",Zara,In Review,High,2025-07-11
+50,Add breadcrumbs,"Improve navigation with breadcrumbs",Viraj,Completed,Low,2025-06-29
+51,Refactor auth flow,"Clean up and simplify login/signup",Pari,In Progress,High,2025-07-14
