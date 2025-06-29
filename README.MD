@@ -151,7 +151,7 @@ Managing messy spreadsheets across clients, workers, and tasks can be overwhelmi
 ## 🤝 Let’s Connect
 
 * LinkedIn: [Connect with Me](https://linkedin.com/in/gouravpandey009)
-* Mail: [gouravpandey009@gmail.com](mailto:gouravpandey009@gmail.com)
+* Mail: [gouravpandey009@gmail.com](mailto:pandeygourav09@gmail.com)
 
 ---
 
