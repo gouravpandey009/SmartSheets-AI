@@ -6,7 +6,7 @@ Welcome to **Data Alchemist**, a full-stack, AI-driven resource allocation confi
 
 ## 🌟 Live Demo
 
-👉 [Click here to try the live app](https://your-deployment-link.com)
+👉 [Click here to try the live app](https://smartsheetsai.vercel.app/)
 🎥 [Watch 2-min demo on Loom](https://www.loom.com/share/1aca15b948c245eab4ebf3c1d073688f?sid=d0c0e3c7-4990-48f2-a597-781573d8d56b)
 
 ---
